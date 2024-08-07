@@ -1,4 +1,4 @@
-# WATT Simulation Framework
+# EACLOCK Simulation Framework
 
 Here you can find our Simulation Framework from WATT.
 
