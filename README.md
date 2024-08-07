@@ -1,6 +1,6 @@
 # EACLOCK Simulation Framework
 
-Here you can find our Simulation Framework from WATT.
+Our evaluation framework is derived from WATT [here](https://github.com/leanstore/leanstore/blob/WATT/README.md).
 
 ## Compiling
 
